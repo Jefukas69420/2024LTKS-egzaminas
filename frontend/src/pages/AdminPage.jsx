@@ -105,7 +105,6 @@ const AdminPage = () => {
     <Container maxW="container.xl" py={12}>
       <VStack spacing={8}>
         <HStack spacing={4}>
-          <Button colorScheme="blue" onClick={openOrdersDialog}>Orders</Button>
           <Button colorScheme="purple" onClick={() => setIsRoleDialogOpen(true)}>Roles</Button>
           <Button colorScheme="yellow" onClick={openUsersDialog}>Users</Button>
         </HStack>

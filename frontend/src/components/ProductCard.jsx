@@ -107,8 +107,8 @@ const ProductCard = ({ product }) => {
   const handleAddToCart = () => {
     addToCart(product);
     toast({
-      title: "Added to Cart",
-      description: `${product.name} has been added to your cart.`,
+      title: "Added to Favorites",
+      description: `${product.name} has been added to your Favorites.`,
       status: "success",
       duration: 3000,
       isClosable: true,
