@@ -24,3 +24,7 @@ npm run dev
 PRIVALOMA BUTI FRONTEND FOLDERI
 
 
+mongodb prisijungimas:
+
+dominykas.lapinskas@stud.vtmv.lt
+
